@@ -1,0 +1,9 @@
+streamlit
+numpy
+pandas
+scikit-learn
+tensorflow-cpu==2.15.0
+keras==2.15.0
+protobuf==3.20.3
+ml-dtypes==0.2.0
+tensorboard==2.15.2
